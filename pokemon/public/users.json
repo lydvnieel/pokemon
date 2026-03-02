@@ -1,0 +1,108 @@
+
+[
+    {
+        "fullName": "Carlos Mendoza López",
+        "username": "cmendoza",
+        "email": "carlos.mendoza@testmail.com",
+        "phone": "5512345678",
+        "active": true,
+        "roles": [
+            "SUPER",
+            "ADMIN"
+        ]
+    },
+    {
+        "fullName": "Ana Torres",
+        "username": "atorres",
+        "email": "ana.torres@correo.dev",
+        "phone": "5587654321",
+        "active": true,
+        "roles": [
+            "EMPLOYEE"
+        ]
+    },
+    {
+        "fullName": "Luis Fernando Ramírez",
+        "username": "lramirez",
+        "email": "luis.ramirez@fakeinbox.com",
+        "phone": "5611122233",
+        "active": false,
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "fullName": "Mariana Gómez Ruiz",
+        "username": "mgomez",
+        "email": "mariana.gomez@test.org",
+        "phone": "5544455566",
+        "active": true,
+        "roles": [
+            "ADMIN",
+            "EMPLOYEE"
+        ]
+    },
+    {
+        "fullName": "José Ángel Pérez",
+        "username": "jperez",
+        "email": "jose.perez@maildemo.net",
+        "phone": "5599988877",
+        "active": true,
+        "roles": [
+            "EMPLOYEE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "fullName": "Daniela Cruz",
+        "username": "dcruz",
+        "email": "daniela.cruz@mockmail.io",
+        "phone": "5577712345",
+        "active": false,
+        "roles": [
+            "SUPPORT"
+        ]
+    },
+    {
+        "fullName": "Roberto Salinas Vega",
+        "username": "rsalinas",
+        "email": "roberto.salinas@correo.test",
+        "phone": "5533344455",
+        "active": true,
+        "roles": [
+            "ADMIN"
+        ]
+    },
+    {
+        "fullName": "Fernanda Morales",
+        "username": "fmorales",
+        "email": "fernanda.morales@demo.mx",
+        "phone": "5566611122",
+        "active": true,
+        "roles": [
+            "EMPLOYEE"
+        ]
+    },
+    {
+        "fullName": "Alejandro Núñez Castillo",
+        "username": "anunez",
+        "email": "alejandro.nunez@fakemail.dev",
+        "phone": "5543217890",
+        "active": false,
+        "roles": [
+            "EMPLOYEE",
+            "SUPPORT"
+        ]
+    },
+    {
+        "fullName": "Paola Herrera",
+        "username": "pherrera",
+        "email": "paola.herrera@testbox.com",
+        "phone": "5588899900",
+        "active": true,
+        "roles": [
+            "SUPER",
+            "ADMIN"
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Pikachu",
+      "types": ["Electrico", "Normal"],
+      "img_url": "https://xd.com/img"
+    },
+
+    { "name": "Pichu", 
+    "types": ["Electrico"], 
+    "img_url": "https://xd.com/img" 
+     
+    },
+
+    {   
+      "name": "Raichu",
+      "types": ["Electrico", "Dragon"],
+      "img_url": "https://xd.com/img"
+    }
+  ]
